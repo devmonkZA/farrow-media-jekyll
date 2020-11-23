@@ -1,0 +1,12 @@
+# Site settings
+title: Farrow Media
+email: farrow.eric@gmail.com
+description: "Farrow Media" 
+baseurl: ""
+url: "https://www.farrow-media.com"
+
+twitter_username: DevmonkZA
+github_username: devmonkZA
+
+# Build settings
+markdown: kramdown
